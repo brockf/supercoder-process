@@ -8,7 +8,8 @@ right look frames, left look frames, proportion of center looks to total looks, 
 looks, and proportion right looks.
 
 INSTRUCTIONS:
-    1) Clean all your SuperCoder coded .rftd files (remove slashes and pre-/post-text).
+	
+	1) Clean all your SuperCoder coded .rftd files (remove slashes and pre-/post-text).
 	
 	2) Open each coding file in Excel and export as a CSV file.
 	
